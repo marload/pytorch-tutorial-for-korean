@@ -1,5 +1,5 @@
 .idea/
 venv/
 *.swp
-*/.ipynb_checkpoints/
-*/MNIST/
+tutorial/*/.ipynb_checkpoints/
+tutorial/*/MNIST/
